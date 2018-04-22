@@ -3,4 +3,4 @@ New version of Minecraft modpack updater and manager. Help in synchronization, d
 
 Built in Kotiln and JavaFX.
 
-!(screenshot)[https://github.com/Sheryv/XanUpdater-2/blob/master/res/screenshot.png]
+![screenshot](https://github.com/Sheryv/XanUpdater-2/blob/master/res/screenshot.png)
